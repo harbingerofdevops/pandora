@@ -1,3 +1,3 @@
-module github.com/harbingerofdevops/pandora
+module pandora
 
 go 1.19
